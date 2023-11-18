@@ -1,0 +1,296 @@
+/* Font link */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Font link end */
+/* Common Start */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+}
+
+/* Common End */
+/* Header Start */
+header {
+    padding: 15px 0;
+    background-color: #e0fbe0;
+}
+
+/* Nav start */
+
+
+.menu ul li a {
+    padding: 0 24px !important;
+    color: #000 !important;
+}
+
+.menu ul li a:hover {
+    color: #FD511A !important;
+}
+
+
+/* Nav End */
+.btn-c {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #21B573;
+    color: white;
+    border-radius: 33px;
+}
+
+.btn-c:hover {
+    background-color: #FD511A;
+    color: white;
+
+}
+
+.btn-c:active {
+    background-color: #FD511A !important;
+    color: white !important;
+}
+
+.btn-sign {
+    margin-left: 20px;
+    padding: 12px 28px;
+}
+
+/* Button End */
+/* Modal */
+.modal-custom {
+    background-color: #e0fbe0;
+}
+
+.modal-img {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-head {
+    color: #000;
+    font-weight: 500;
+    font-size: 27px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-modal {
+    border-radius: 10px;
+    /* margin: 23px 27% 0; */
+    padding: 16px 2px;
+    width: 100%;
+    margin-top: 15px;
+}
+
+.link-modal {
+    margin-top: 10px !important;
+    text-decoration: none;
+
+}
+
+.modal-text {
+    margin-top: 10px !important;
+}
+
+.link-modal:hover {
+    color: #FD511A;
+    text-decoration: underline;
+}
+
+/* Modal end */
+/* Header End */
+
+/* Banner Start */
+.banner {
+
+    background-color: #e0fbe0;
+    padding-bottom: 65px;
+}
+
+.b-text {}
+
+.bp1 {
+    color: #FD511A;
+}
+
+.bh1 {
+
+    margin: 10px 0 15px;
+    padding: 0 33px 0 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: #000;
+    line-height: 70px;
+}
+
+.bh1 span {
+    color: #21B573;
+}
+
+.bp2 {
+    line-height: 36px;
+}
+
+.btn_banner {
+    margin-top: 10px;
+    padding: 12px 36px;
+}
+
+/* Banner End */
+
+/*  Features Start */
+.features {}
+
+.p_c {
+    padding: 0 0 100px;
+}
+
+.f_single {
+    margin: 40px 0 0;
+    padding: 55px 0 50px;
+    border-radius: 10px;
+    background: #e0fbe0;
+    transition: .33s linear;
+}
+
+.f_img {
+    width: 80px;
+    height: 83px;
+}
+
+.s_img img {}
+
+.f_text {}
+
+.f_h2 {
+    margin: 20px 0 0;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+}
+
+.s_text p {}
+
+.f_single:hover {
+    background: #FFF;
+    box-shadow: 0px 20px 40px 0px rgba(0, 0, 0, 0.10);
+}
+
+/* Features End */
+/* Courses start */
+.title_h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+}
+
+.c_single {
+    margin: 60px 0 0;
+    padding: 25px 20px 30px;
+    border-radius: 18px;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.10);
+
+}
+
+.c_img {}
+
+.c_img img {
+    border-radius: 11px;
+}
+
+.c_h2 {
+    margin: 20px 0 5px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #000;
+}
+
+.c_p {}
+
+.btn_courses {
+    margin: 20px 0 35px;
+    padding: 8px 28px;
+}
+
+.c_left ul li span,
+.c_right ul li span {
+    font-weight: 500;
+}
+
+.c_left ul li img,
+.c_right ul li img {}
+
+/* Courses end */
+
+/* Testimonial start */
+.t_item {
+    padding: 65px 0 0;
+}
+
+.t_img {}
+
+.t_text {}
+
+.t-p {
+    line-height: 30px;
+}
+
+/* Testimonial end */
+/* Footer Top */
+.footer_top {
+    background-color: #282531;
+    padding-top: 55px;
+}
+
+.ft_details {
+    padding-right: 120px;
+}
+
+.ft_details p {
+    
+    color: #fff;
+    line-height: 30px;
+}
+
+.ft_link {}
+
+.ft_link h2 {
+    margin-bottom: 8px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    color: #FFF;
+}
+
+.ft_link ul li {
+    margin-top: 8px;
+}
+
+.ft_link ul li a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+/* Footer top End */
+/* Footer start */
+footer{
+    background-color: #282531;
+    padding-bottom: 30px;
+}
+footer p {
+    text-align: center;
+    color:#fff;
+}
+footer p a{
+    color:#fff;
+    text-decoration: none;
+}
+/* Footer end */
