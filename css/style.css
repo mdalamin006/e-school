@@ -114,7 +114,6 @@ header {
     padding-bottom: 65px;
 }
 
-.b-text {}
 
 .bp1 {
     color: #FD511A;
@@ -146,7 +145,7 @@ header {
 /* Banner End */
 
 /*  Features Start */
-.features {}
+
 
 .p_c {
     padding: 0 0 100px;
@@ -165,9 +164,7 @@ header {
     height: 83px;
 }
 
-.s_img img {}
 
-.f_text {}
 
 .f_h2 {
     margin: 20px 0 0;
@@ -176,7 +173,6 @@ header {
     color: #000;
 }
 
-.s_text p {}
 
 .f_single:hover {
     background: #FFF;
@@ -199,7 +195,7 @@ header {
 
 }
 
-.c_img {}
+
 
 .c_img img {
     border-radius: 11px;
@@ -212,7 +208,7 @@ header {
     color: #000;
 }
 
-.c_p {}
+
 
 .btn_courses {
     margin: 20px 0 35px;
@@ -224,9 +220,6 @@ header {
     font-weight: 500;
 }
 
-.c_left ul li img,
-.c_right ul li img {}
-
 /* Courses end */
 
 /* Testimonial start */
@@ -234,9 +227,7 @@ header {
     padding: 65px 0 0;
 }
 
-.t_img {}
 
-.t_text {}
 
 .t-p {
     line-height: 30px;
@@ -254,12 +245,12 @@ header {
 }
 
 .ft_details p {
-    
+
     color: #fff;
     line-height: 30px;
 }
 
-.ft_link {}
+
 
 .ft_link h2 {
     margin-bottom: 8px;
@@ -281,16 +272,19 @@ header {
 
 /* Footer top End */
 /* Footer start */
-footer{
+footer {
     background-color: #282531;
     padding-bottom: 30px;
 }
+
 footer p {
     text-align: center;
-    color:#fff;
+    color: #fff;
 }
-footer p a{
-    color:#fff;
+
+footer p a {
+    color: #fff;
     text-decoration: none;
 }
+
 /* Footer end */
