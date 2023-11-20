@@ -1,2 +1,4 @@
 # e-school
-Here is E-School landing webpage
+It is an E-School landing webpage
+preview
+https://mdalamina006.github.io/e-school/
